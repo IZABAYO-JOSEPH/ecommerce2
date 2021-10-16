@@ -67,7 +67,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo> .. WAKI WAKI ..</Logo>
+          <Logo> .. WAKKI ..</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
